@@ -4,8 +4,11 @@ Machine-Learning-2 🌟
 Il est conçu pour illustrer et approfondir les concepts fondamentaux du RL à travers des implémentations Python et des algorithmes populaires.
 
 📚 MACHINE LEARNING II – Travaux Pratiques (TP)
+
 🧪 TP 1 : Introduction au Reinforcement Learning et OpenAI Gym
+
 🎯 Objectif :
+
 Se familiariser avec les outils essentiels du Reinforcement Learning, notamment OpenAI Gym. Les étudiants explorent comment interagir avec un environnement RL et exécuter des actions avant de passer à l’implémentation d’algorithmes d’apprentissage.
 
 🔍 Contenu :
@@ -25,7 +28,9 @@ Partie 2 : Exercices Pratiques avec OpenAI Gym
 📊 Exercice 4 : Évaluation des Performances d’une Politique Aléatoire
 
 🧪 TP 2 : Implémentation de l’Algorithme Q-Learning
+
 🎯 Objectif :
+
 Mettre en pratique les concepts fondamentaux du Reinforcement Learning en explorant l’algorithme Q-Learning.
 
 🔍 Contenu :
@@ -47,7 +52,9 @@ Exercice 3 : Algorithme Q-Learning et Mise à Jour 🔄
 Exercice 4 : Évaluation des Performances de l’Agent 📊
 
 🧪 TP 3 : Optimisation des Feux de Circulation avec RL 🚦
+
 🎯 Objectif :
+
 Explorer l’optimisation des feux de circulation grâce à l’apprentissage par renforcement.
 
 🔍 Contenu :
@@ -69,7 +76,9 @@ Exercice 3 : Implémentation de SARSA ⚙️
 Exercice 4 : Analyse et Visualisation des Résultats 📉
 
 🧪 TP 4 : Apprentissage Profond pour les Jeux – Optimisation de Politique Proximale (PPO) 🎮
+
 🎯 Objectif :
+
 Implémenter l'algorithme Proximal Policy Optimization (PPO) pour entraîner un agent à résoudre l’environnement Taxi-v3 (problème de transport de passagers).
 
 🔍 Contenu :
@@ -93,10 +102,12 @@ Exercice 3 : Mise à jour PPO 🔄
 Exercice 4 : Évaluation de l’Agent 📊
 
 🛠 Technologies Utilisées :
+
 Langage Principal : Python 🐍
 
 Frameworks et Librairies : OpenAI Gym
 
 🌐 Auteur : BELGA Abdelmalek
+
 📅 Date de Création : 27-03-2025
 
